@@ -63,7 +63,9 @@ A: Personally Identifiable Information (PII)
 # Privacy in working environment
 - HIPPA : Health Insurance, Portability and Accountability Act (USA) --> This act will control how the privacy of medical information must be maintained
 
-
+An asset: is something in need of protection.
+● A vulnerability: is a gap or weakness in those protection efforts.
+● A threat: is something or someone that aims to exploit a vulnerability to thwart protection efforts.
 
 
 
